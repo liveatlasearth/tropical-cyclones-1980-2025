@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, along with the original source."
+type: dataset
+title: "Hurricanes, Typhoons And Tropical Cyclones 1980-2025"
+version: "1.0"
+date-released: 2026-10-30
+license: CC-BY-4.0
+url: "https://github.com/liveatlasearth/tropical-cyclones-1980-2025"
+repository-code: "https://github.com/liveatlasearth/tropical-cyclones-1980-2025"
+abstract: "4,112 Hurricanes, Typhoons and Cyclones Since 1980, One Row Per Storm. 4,112 hurricanes, typhoons and tropical cyclones 1980-2025 with peak wind, pressure, category and landfalls. CSV, CC BY 4.0. NOAA IBTrACS data, by Live Atlas"
+keywords:
+  - hurricanes
+  - typhoons
+  - tropical-cyclones
+  - dataset
+  - ibtracs
+  - noaa
+  - climate
+  - csv
+authors:
+  - given-names: Nathan
+    family-names: Ridge
+    affiliation: Live Atlas
+  - name: Live Atlas
+    website: "https://www.liveatlas.earth/"
